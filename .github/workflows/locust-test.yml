@@ -25,5 +25,5 @@ jobs:
 
     - name: 🚀 Run Load Test
       run: |
-        locust -f locustfile.py --headless -u 10 -r 1 --run-time 30s --locust --web-host 127.0.0.
+        locust -f locustfile.py --headless -u 10 -r 1 --run-time 30s --locust --web-host 127.0.0.1
 
