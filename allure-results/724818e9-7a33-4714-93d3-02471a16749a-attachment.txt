@@ -1,0 +1,28 @@
+Current URL after login: http://127.0.0.1:5000/
+Error in get_cart_price_details: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF744FB5355+78597]
+	GetHandleVerifier [0x00007FF744FB53B0+78688]
+	(No symbol) [0x00007FF744D691AA]
+	(No symbol) [0x00007FF744DBF149]
+	(No symbol) [0x00007FF744DBF3FC]
+	(No symbol) [0x00007FF744E12467]
+	(No symbol) [0x00007FF744DE712F]
+	(No symbol) [0x00007FF744E0F2BB]
+	(No symbol) [0x00007FF744DE6EC3]
+	(No symbol) [0x00007FF744DB03F8]
+	(No symbol) [0x00007FF744DB1163]
+	GetHandleVerifier [0x00007FF74525EF0D+2870973]
+	GetHandleVerifier [0x00007FF7452596B8+2848360]
+	GetHandleVerifier [0x00007FF745276993+2967875]
+	GetHandleVerifier [0x00007FF744FD019A+188746]
+	GetHandleVerifier [0x00007FF744FD847F+222255]
+	GetHandleVerifier [0x00007FF744FBD2D4+111236]
+	GetHandleVerifier [0x00007FF744FBD482+111666]
+	GetHandleVerifier [0x00007FF744FA35A9+5465]
+	BaseThreadInitThunk [0x00007FFC51EC259D+29]
+	RtlUserThreadStart [0x00007FFC53EAAF38+40]
+
+Test failed with error: Failed to retrieve price IDs
+assert None is not None
+Screenshot saved at: C:\Users\Santhosh J\Desktop\vir\screenshot\test_cart_price_details_failed.png

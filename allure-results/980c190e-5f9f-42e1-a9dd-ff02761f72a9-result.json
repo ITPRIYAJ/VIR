@@ -1,0 +1,1 @@
+{"name": "test_empty_login_fields[-]", "status": "passed", "parameters": [{"name": "username", "value": "''"}, {"name": "password", "value": "''"}], "start": 1745074553877, "stop": 1745074587679, "uuid": "daefc3de-e07e-43e9-9c33-5f84b42b5d10", "testCaseId": "4448e4d2b13f1602668231224515a54b", "fullName": "login_test#test_empty_login_fields"}
